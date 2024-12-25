@@ -4,8 +4,9 @@ please do not try to write text edits for no reason
 
 ## How to build
 1. Open .sln file in Visual Studio 17+
-2. Build
-3. Be happy
+1.1 Select the "release" build option
+3. Build
+4. Be happy
 
 ## Contributions
 Please don't
